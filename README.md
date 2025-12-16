@@ -1,6 +1,6 @@
 # Luiz de Queiroz
 
-Backend Engineer (.NET) com experiência em APIs, mensageria e integração; e React para front web quando necessário.
+Backend Engineer (.NET) com experiência em APIs, mensageria e integração; e React para front web o básico de mobile (react-native).
 
 ## Stack
 - .NET / C# (APIs, mensageria, performance)
